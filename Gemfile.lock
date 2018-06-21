@@ -14,7 +14,7 @@ GEM
       rack-cache (~> 1.0.3)
       rack-mount (~> 0.8.2)
       rack-test (~> 0.6.1)
-      sprockets (~> 2.0.0)
+      sprockets (~> 2.12.5)
     activemodel (3.1.0)
       activesupport (= 3.1.0)
       bcrypt-ruby (~> 3.0.0)
